@@ -8,7 +8,7 @@ layout: home
 
 Mission Managed helps clients develop and meet their their social impact goals, build their supporter base and increase operational efficiency.
 
-<h3>Founder: Jane Kogan, LMSW</h3>
+<h4>Founder: Jane Kogan, LMSW</h4>
 
 I've been passionate about servant leadership for as long as I can remember. In college I planned to practice therapy, but I quickly realized that my strengths lay in working on an organizational level.
 

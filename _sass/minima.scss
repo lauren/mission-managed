@@ -79,14 +79,6 @@ h1 {
             color: $white;
         }
     }
-    &.mission {
-        font-family: $subhead-font;
-        line-height: $lineheight * 1.5; 
-    }
-    &.logo {
-        line-height: $lineheight * 1.5;
-        font-size: $fontsize * 2.25;
-    }
 } 
 
 h2 { 
@@ -267,6 +259,7 @@ ul.icons {
     background: #fff;
     opacity: .96;
     border-bottom: 2px solid #ccc;
+    font-family: $subhead-font;
 }
 
 .nav-stuck {
